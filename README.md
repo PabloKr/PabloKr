@@ -1,6 +1,6 @@
-- 👋 Soy @PabloKr
-- 👀 Programación Web Full Stack | React JS | HTML | CSS | Javascript | Node JS | MYSQL
-- 🌱 Continuo desarrollandome y aplicando mis conocimientos adquiridos.
+- 👋 Hola, soy Pablo German Kruchowski.
+- 👀 Me interesa seguir adquiriendo y continuar desarrollandome en frontend/backend y aplicando mis conocimientos.
+- 🌱 Programador Web Full Stack (ARG).
 - 📫 Mi correo es pablokruchowski@gmail.com
 
 <!---
