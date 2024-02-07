@@ -3,6 +3,9 @@
 - 🌱 Programador Web Full Stack (ARG).
 - 📫 Mi correo es pablokruchowski@gmail.com
 
+- 🌐 Socials:
+- www.linkedin.com/in/pablo-germán-kruchowski-363770235
+
 <!---
 PabloKr/PabloKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
